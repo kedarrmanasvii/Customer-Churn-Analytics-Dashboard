@@ -107,4 +107,7 @@ The metrics shown in the dashboard are stored in `data/model_metrics.csv`, and t
 
 ## License
 
-No license has been added yet. If you plan to make this repository public, choose a license only after confirming that you have the rights to license the code and redistribute the included dataset and model.
+## License
+
+This project is currently available for educational and portfolio purposes. Dataset and model redistribution rights should be verified separately.
+
