@@ -1,0 +1,5 @@
+Actual,Predicted,Count
+Stayed,Stayed,826
+Stayed,Churned,207
+Churned,Stayed,121
+Churned,Churned,253
